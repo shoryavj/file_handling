@@ -1,0 +1,11 @@
+C:\Users\CGI\GDP5\GDP5\bin\Debug\netcoreapp2.2\GDP5.deps.json
+C:\Users\CGI\GDP5\GDP5\bin\Debug\netcoreapp2.2\GDP5.runtimeconfig.json
+C:\Users\CGI\GDP5\GDP5\bin\Debug\netcoreapp2.2\GDP5.runtimeconfig.dev.json
+C:\Users\CGI\GDP5\GDP5\bin\Debug\netcoreapp2.2\GDP5.dll
+C:\Users\CGI\GDP5\GDP5\bin\Debug\netcoreapp2.2\GDP5.pdb
+C:\Users\CGI\GDP5\GDP5\obj\Debug\netcoreapp2.2\GDP5.csprojAssemblyReference.cache
+C:\Users\CGI\GDP5\GDP5\obj\Debug\netcoreapp2.2\GDP5.csproj.CoreCompileInputs.cache
+C:\Users\CGI\GDP5\GDP5\obj\Debug\netcoreapp2.2\GDP5.AssemblyInfoInputs.cache
+C:\Users\CGI\GDP5\GDP5\obj\Debug\netcoreapp2.2\GDP5.AssemblyInfo.cs
+C:\Users\CGI\GDP5\GDP5\obj\Debug\netcoreapp2.2\GDP5.dll
+C:\Users\CGI\GDP5\GDP5\obj\Debug\netcoreapp2.2\GDP5.pdb
